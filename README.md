@@ -1,3 +1,3 @@
 # discussion1
 
-<h1>Brogan Kaczkofsky</h1>
+<h1>Brogan</h1>
